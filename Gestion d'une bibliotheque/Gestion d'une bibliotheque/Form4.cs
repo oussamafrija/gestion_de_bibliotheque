@@ -10,9 +10,10 @@ namespace Gestion_d_une_bibliotheque
 {
     public partial class Form4 : Form
     {
-        public Form4()
+        public Form4(string code)
         {
             InitializeComponent();
+            txt_code1.Text = code;
         }
 
         private void txt_cl_TextChanged(object sender, EventArgs e)

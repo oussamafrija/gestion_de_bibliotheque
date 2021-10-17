@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Cn3A1cZiLN6QZ+QQFQ4MxZ/Z8jy5VWLqNjF9GrvPTanvRoFeJ7BnPyzgT4H/g4GVcjly6dywY1acaUa3UHnQiw==",
+  "dgSpecHash": "jzlrWqzzUbApV7BJCh8Vk0a9Kxp3d7dOEkissuctn5C7711wuWZvoptc7+9d4mNLkeRdx18PqdRGa5tTvWGo1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oussama\\source\\repos\\Gestion d'une bibliotheque\\Gestion d'une bibliotheque\\Gestion d'une bibliotheque.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Maria\\Source\\Repos\\gestion_de_bibliotheques\\Gestion d'une bibliotheque\\Gestion d'une bibliotheque\\Gestion d'une bibliotheque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

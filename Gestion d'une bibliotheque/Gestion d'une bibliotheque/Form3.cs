@@ -28,8 +28,9 @@ namespace Gestion_d_une_bibliotheque
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string s = txt_cl1.Text;
             this.Hide();
-            Form4 f4 = new Form4();
+            Form4 f4 = new Form4(s);
             f4.ShowDialog();
             
         }
