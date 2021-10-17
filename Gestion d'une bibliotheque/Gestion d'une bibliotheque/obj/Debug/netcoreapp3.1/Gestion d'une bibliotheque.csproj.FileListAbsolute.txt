@@ -1,0 +1,20 @@
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\bin\Debug\netcoreapp3.1\Gestion d'une bibliotheque.exe
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\bin\Debug\netcoreapp3.1\Gestion d'une bibliotheque.deps.json
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\bin\Debug\netcoreapp3.1\Gestion d'une bibliotheque.runtimeconfig.json
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\bin\Debug\netcoreapp3.1\Gestion d'une bibliotheque.runtimeconfig.dev.json
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\bin\Debug\netcoreapp3.1\Gestion d'une bibliotheque.dll
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\bin\Debug\netcoreapp3.1\Gestion d'une bibliotheque.pdb
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.csproj.AssemblyReference.cache
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion_d_une_bibliotheque.Form1.resources
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion_d_une_bibliotheque.Form2.resources
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.csproj.GenerateResource.cache
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.AssemblyInfoInputs.cache
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.AssemblyInfo.cs
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.csproj.CoreCompileInputs.cache
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.dll
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.pdb
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion d'une bibliotheque.genruntimeconfig.cache
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion_d_une_bibliotheque.Form3.resources
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion_d_une_bibliotheque.Form4.resources
+C:\Users\Oussama\source\repos\Gestion d'une bibliotheque\Gestion d'une bibliotheque\obj\Debug\netcoreapp3.1\Gestion_d_une_bibliotheque.Properties.Resources.resources

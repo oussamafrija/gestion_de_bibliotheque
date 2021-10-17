@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gestion d'une bibliotheque/1.0.0": {
+        "runtime": {
+          "Gestion d'une bibliotheque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestion d'une bibliotheque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
